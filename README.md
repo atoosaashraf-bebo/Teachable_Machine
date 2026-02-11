@@ -18,9 +18,9 @@ This repository contains a real-time image classification model trained using **
 
 This project is designed to recognize and classify images into the following categories:
 
-* **[Class Name 1]**: (e.g., "Phone in hand")
-* **[Class Name 2]**: (e.g., "Empty background")
-* **[Class Name 3]**: (e.g., "Wearing Glasses")
+* **[Class Name 1]**: (e.g., "Bottle in hand")
+* **[Class Name 2]**: (e.g., "Mobile Phone in hand")
+* **[Class Name 3]**: (e.g., "Empty background")
 
 The model was trained using a custom dataset of images and uses a transfer learning approach based on the **MobileNet** architecture.
 
@@ -71,6 +71,15 @@ async function init() {
 Feel free to fork this project and adapt it for your own use cases—whether that's building an automated plant identifier, a gesture-controlled UI, or a security filter.
 
 <img width="381" height="646" alt="image" src="https://github.com/user-attachments/assets/b6e71abb-62b0-487e-92b1-4b22a07f557c" />
+
+<img width="378" height="783" alt="image" src="https://github.com/user-attachments/assets/c0636e32-b413-4742-85d8-7c62687721de" />
+
+<img width="400" height="793" alt="image" src="https://github.com/user-attachments/assets/f6ebf8a6-cf39-4549-adfd-99665a9bc03b" />
+
+
+
+
+
 
 ---
 
@@ -140,26 +149,6 @@ async function init() {
 
 ---
 
-## 🛠️ Technology Stack
-
-* **Framework:** [TensorFlow.js](https://www.tensorflow.org/js)
-* **Training Tool:** [Teachable Machine](https://teachablemachine.withgoogle.com/)
-* **Language:** JavaScript / HTML5 / CSS3
-
-## 📂 Repository Contents
-
-* `README.md`: Documentation and project overview.
-* `index.html`: A complete, functional demo using your webcam.
-
-## 🤝 Contributing
-
-Feel free to fork this project and adapt it for your own use cases—whether that's building an automated plant identifier, a gesture-controlled UI, or a security filter.
-
----
-
-*Created by [Your Name/Username]*
-
----
 
 ### One quick suggestion:
 
