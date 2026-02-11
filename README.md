@@ -69,11 +69,12 @@ async function init() {
 ## 🤝 Contributing
 
 Feel free to fork this project and adapt it for your own use cases—whether that's building an automated plant identifier, a gesture-controlled UI, or a security filter.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/82651410-e49a-4185-82a9-66aa9d2c398a" />
+
+<img width="381" height="646" alt="image" src="https://github.com/user-attachments/assets/b6e71abb-62b0-487e-92b1-4b22a07f557c" />
 
 ---
 
-*Created by [Your Name/Username]*
+*Created by Atoosa Ashraf*
 
 ---
 
