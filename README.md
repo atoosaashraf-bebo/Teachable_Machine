@@ -19,7 +19,7 @@ This repository contains a real-time image classification model trained using **
 This project is designed to recognize and classify images into the following categories:
 
 * **[Class Name 1]**: (e.g., "Bottle in hand")
-* **[Class Name 2]**: (e.g., "Mobile Phone in hand")
+* **[Class Name 2]**: (e.g., "Mobile Phone in hand") 
 * **[Class Name 3]**: (e.g., "Empty background")
 
 The model was trained using a custom dataset of images and uses a transfer learning approach based on the **MobileNet** architecture.
