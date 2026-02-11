@@ -67,14 +67,15 @@ async function init() {
 * `index.html`: A complete, functional demo using your webcam.
 
 ## 🤝 Contributing
+## Proof of Concept
 
 Feel free to fork this project and adapt it for your own use cases—whether that's building an automated plant identifier, a gesture-controlled UI, or a security filter.
 
-<img width="381" height="646" alt="image" src="https://github.com/user-attachments/assets/b6e71abb-62b0-487e-92b1-4b22a07f557c" />
+<img width="340" height="500" alt="image" src="https://github.com/user-attachments/assets/b6e71abb-62b0-487e-92b1-4b22a07f557c" />
 
-<img width="378" height="783" alt="image" src="https://github.com/user-attachments/assets/c0636e32-b413-4742-85d8-7c62687721de" />
+<img width="340" height="500" alt="image" src="https://github.com/user-attachments/assets/c0636e32-b413-4742-85d8-7c62687721de" />
 
-<img width="400" height="793" alt="image" src="https://github.com/user-attachments/assets/f6ebf8a6-cf39-4549-adfd-99665a9bc03b" />
+<img width="340" height="500" alt="image" src="https://github.com/user-attachments/assets/f6ebf8a6-cf39-4549-adfd-99665a9bc03b" />
 
 
 
