@@ -24,6 +24,19 @@ This project is designed to recognize and classify images into the following cat
 
 The model was trained using a custom dataset of images and uses a transfer learning approach based on the **MobileNet** architecture.
 
+The Logic (Critical Thinking)
+In your project notes, answer the following:
+
+Why is this "Supervised Learning"?
+
+Edge Cases: What happens if you hold two objects at once? How does the computer react?
+
+Q1. Why is this "Supervised Learning"?
+This is supervised learning because the model was trained using labeled images for each class (Bottle in hand, Mobile Phone in hand, Empty background). I provided the correct class names during training, so the model learned to classify images based on those labels.
+
+Q2. What happens if you hold two objects at once? How does the computer react?
+If I hold two objects at once, the model gets confused because it was trained to recognize one main object per image. It will usually predict the class with the highest similarity.
+
 ## 🚀 How to Run Locally
 
 To get this model running on your own machine or GitHub Pages, follow these steps:
